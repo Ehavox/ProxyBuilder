@@ -1,6 +1,6 @@
 # ProxyConfigurer – ProxyBuilder_V2.3
 
-Automatisation complète de l’installation et de la configuration du proxy **Squid**.
+Automatisation complète de l’installation et de la configuration du proxy **Squid** sous distribution **Linux**.
 
 ProxyBuilder est un script conçu pour simplifier et accélérer le déploiement d’un proxy Squid, tout en offrant des options avancées telles que la gestion des utilisateurs, des logs et l’activation/désactivation des blacklists.
 
