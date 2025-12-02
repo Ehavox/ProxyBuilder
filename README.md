@@ -13,14 +13,17 @@ ProxyConfigurer est un script conçu pour simplifier et accélérer le déploiem
 * Gestion avancée des logs (fichier ou base de données consultable via un site web)
 * Divers modules additionnels pour optimiser la configuration
 
+---
+
 # Installation
+
 1. Télécharger le projet
 Téléchargez le fichier `.zip` depuis la page GitHub (bouton **Code → Download ZIP**).
 
 2. Décompresser l’archive
 Extrayez le contenu du fichier ZIP :
 ```bash
-unzip ProxyConfigurer.zip
+unzip ProxyBuilder_V2.3.zip
 ```
 Vous obtiendrez le script **ProxyBuilder_V2.3** ainsi que tous ses fichiers requis.
 
@@ -36,14 +39,17 @@ Exécutez simplement :
 ./ProxyBuilder_V2.3
 ```
 
+---
+
 # Illustration
 
-*(Vous pouvez ajouter ici une image, un aperçu du script ou de son interface.)*
+Voici un aperçu de ce que vous verrez :
 
 <img width="745" height="408" alt="Capture d&#39;écran 2025-12-02 143109" src="https://github.com/user-attachments/assets/a56d60da-612b-482b-ac56-9a83ab78c584" />
 
 <img width="757" height="480" alt="Capture d&#39;écran 2025-12-02 143535" src="https://github.com/user-attachments/assets/fa369c30-c843-4587-aa25-c74943c0074b" />
 
+---
 
 # Informations importantes
 
@@ -55,13 +61,5 @@ Exécutez simplement :
 
 # 🙏 Remerciements
 
-Merci à toutes celles et ceux qui utiliseront ProxyConfigurer.
+Merci à toutes celles et ceux qui utiliseront ProxyBuilder.
 Vos retours concernant d’éventuels bugs ou améliorations sont les bienvenus : ils permettront de maintenir et faire évoluer le projet dans le temps.
-
----
-
-Si tu veux, je peux aussi ajouter :
-✔ un badge GitHub (build, version, licence)
-✔ une section "FAQ"
-✔ un "Changelog"
-✔ ou des instructions avancées (dépendances, compatibilité OS…)
